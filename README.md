@@ -26,3 +26,9 @@ let totalSum = evenSum + oddSum;
 console.log("Sum of even numbers: " + evenSum);
 console.log("Sum of odd numbers: " + oddSum);
 console.log("Total sum (even + odd): " + totalSum);
+
+
+
+
+
+
